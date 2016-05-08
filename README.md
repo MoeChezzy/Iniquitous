@@ -1,6 +1,8 @@
 # Iniquitous
 Iniquitous is a tiny application that locks a user out of his or her computer with a very simple yet significantly damaging technique.
 
+It is written in the C# programming language by yours truly (Chezzy!).
+
 This repository contains two projects within the solution:
 * Payload - The actual executable that disables usage of the main functions of the computer.
 * Builder - The application that allows an individual to customize and build a stub (or Payload) through a graphical user interface.
